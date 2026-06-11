@@ -1,0 +1,78 @@
+# Flutter / Dart / general
+.dart_tool/
+.build/
+.packages
+.pub/
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins
+
+# Build output
+/build/
+**/build/
+
+# Android
+/android/.gradle/
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# iOS
+/ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/Flutter.framework/
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/Generated.xcconfig
+/ios/Runner/GeneratedPluginRegistrant.*
+/ios/ServiceDefinitions.json
+
+# macOS / Linux / Windows Flutter ephemeral
+/ios/Flutter/ephemeral/
+/macos/Flutter/ephemeral/
+/linux/Flutter/ephemeral/
+/windows/Flutter/ephemeral/
+
+# Generated plugin files
+**/GeneratedPluginRegistrant.*
+**/generated_plugin_registrant.*
+
+# Flutter export environment
+flutter_export_environment.sh
+
+# IntelliJ / Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.pyo
+*.swp
+*.orig
+*.tmp
+*.tmp.*
+*~
+.DS_Store
+Thumbs.db
+
+# Coverage and diagnostics
+/coverage/
+
+# Pub & lock files
+# Keep pubspec.lock for apps so other developers get a reproducible dependency set.
+
+# Do not ignore source files and assets
+# lib/
+# assets/
+# test/
+# pubspec.yaml
+# pubspec.lock
+# README.md
+# analysis_options.yaml
