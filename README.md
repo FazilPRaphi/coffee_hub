@@ -6,5 +6,5 @@ Also the usage of setsate and making fns within stl and usage of useful flutter 
 
 ##Screenshot of the App
 
-<img width="700" height="900" alt="Screenshot_1781182659" src="https://github.com/user-attachments/assets/3aa2d50c-8a20-4c8a-919a-18f33d99652d" />
+<img width="300" height="1000" alt="Screenshot_1781182659" src="https://github.com/user-attachments/assets/3aa2d50c-8a20-4c8a-919a-18f33d99652d" />
 
